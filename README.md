@@ -1,4 +1,4 @@
-A small programme to maintain a playlist, with functionality of adding/removing and inserting songs.
+A small programme to maintain a playlist using a singly linked list. The programme has the functionality of adding/removing and inserting songs, and reading and writing to files.
 
 Example:
 We have 
